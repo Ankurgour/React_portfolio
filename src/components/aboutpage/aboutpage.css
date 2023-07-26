@@ -1,0 +1,41 @@
+/* ABoutpage css */
+.myimagee{
+    height: 100px;
+    width: 100px;
+  }
+  .aboutpagebackground{
+    /* background-color: rgb(212, 212, 122); */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .about-content{
+    box-shadow: 5px 5px 15px  pink;
+    border:   10px solid lightblue;
+    border-radius: 10px;
+    margin: 10px 20px;
+    height: 550px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    box-sizing: border-box ;
+  }
+  .myimagee{
+    height: 300px;
+    width: 300px;
+    border-radius: 5px 10px 5px 10px;
+    /* margin: 20px; */
+  }
+  .myimage{
+    box-shadow: 8px 10px 10px rgb(123, 176, 194);
+  }
+  .about-desc{
+    margin: 0 10px;
+  }
+  .about-head{
+    margin-top: 20px;
+  }
